@@ -4,7 +4,7 @@ Ce jeu, codé en langage C, permets à deux joueurs de s'affronter sur un tablea
 
 ## Installation
 
-Clone the project
+Cloner le projet
 
 ```bash
   git clone https://github.com/t4rm/jeu_x
@@ -16,7 +16,7 @@ Rendez-vous sur le répertoire du projet
   cd jeu_x
 ```
 
-Compilez le fichier c
+Compiler le fichier c
 
 ```bash
   gcc jeu.c -o jeu
